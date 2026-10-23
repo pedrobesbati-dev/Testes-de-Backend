@@ -1,0 +1,1 @@
+Área de consulta e movimentação dos itens de frota. Evitar guardar uma lista de ferramentas em texto separado por vírgulas: cada item e sua quantidade devem ser entidades/associações relacionais

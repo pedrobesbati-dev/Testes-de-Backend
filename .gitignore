@@ -1,0 +1,7 @@
+#Variáveis de Ambiente
+.env
+.env.*
+!.env.example
+
+#Depêndecias
+node_modules/
